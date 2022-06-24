@@ -10,4 +10,4 @@
 sh profiling.sh
 ```
 
-<img width="1088" alt="Screenshot 2022-06-21 at 5 23 11 PM" src="https://user-images.githubusercontent.com/14581509/174793430-82db64ac-b57f-4113-868d-2efabeacb1ea.png">
+<img width="1088" alt="Math Profiling" src="https://user-images.githubusercontent.com/14581509/175492222-720ea89c-ee75-4b07-bf9c-3a61802e115b.png">
